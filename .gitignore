@@ -1,0 +1,19 @@
+# Cache directories
+*.egg-info/
+__pycache__/
+code/cache/
+code/.conda_env/
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# MacOS internal files
+Icon*
+.DS_Store
+
+# Other
+cover art/
+figures/*
+!figures/abstract graphic.png
+manuscript/
+Makefile
+supp_streamlit_rawdata.py
