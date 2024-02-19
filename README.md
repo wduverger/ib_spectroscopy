@@ -8,7 +8,7 @@
 
 This repository contains the data and analysis presented in **Duverger et al. 2024. (submitted)**
 
-The analysis notebooks can be found in the [./code]() directory. They provide all figures and results presented in the manuscript. The underlying data can be found in the [./primary_data]() directory.
+The analysis notebooks can be found in the [code](./code) directory. They provide all figures and results presented in the manuscript. The underlying data can be found in [primary_data](./primary_data).
 
 The code can be ran by executing the following commands, assuming git and conda are installed.
 
