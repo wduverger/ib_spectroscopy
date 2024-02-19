@@ -1,0 +1,88 @@
+- file: doc_b1_rep1.axz
+  condition: B
+  replicate: A
+  amp1625: 10
+  amp1650: 12
+  spectra_loc: 12
+  spectra_ib: [ 7, 8, 9,10,11]
+  spectra_cp: [12,13,14,15,16]
+  spectra_bg: [17,18,19,20,21]
+- file: doc_h1_rep1.axz
+  condition: H
+  replicate: A
+  # condition: R1
+  # replicate: B
+  amp1650: 10
+  amp1625: 11
+  spectra_loc: 11
+  spectra_ib: [ 8, 9,10,11,12]
+  spectra_cp: [13,14,15,16,17]
+  spectra_bg: [18,19,20,21,22]
+- file: doc_r1_rep1.axz
+  condition: R1
+  replicate: A
+  amp1650: 10
+  amp1625: 11
+  spectra_loc: 11
+  spectra_ib: [ 6, 7, 8, 9,10]
+  spectra_cp: [11,12,13,14,15]
+  spectra_bg: [16,17,18,19,20]
+- file: doc_b2_rep1.axz
+  condition: B
+  replicate: B
+  amp1625: 11
+  amp1650: 10
+  spectra_loc: 11
+  spectra_ib: [13,14,15,16,17]
+  spectra_cp: [18,19,20,21,22]
+  spectra_bg: [23,24,25,26,27]
+- file: doc_h2_rep1.axz
+  condition: H
+  replicate: B
+  amp1650: 9
+  amp1625: 10
+  spectra_loc: 12
+  spectra_ib: [ 4, 5, 6, 7, 8]
+  spectra_cp: [ 9,10,11,12,13]
+  spectra_bg: [14,15,16,17,18]
+- file: doc_r2_rep1.axz
+  condition: R1
+  replicate: B
+  # condition: H
+  # replicate: A
+  amp1650: 9
+  amp1625: 10
+  spectra_loc: 10
+  spectra_ib: [ 3, 4, 5, 6, 7]
+  spectra_cp: [ 8, 9,10,11,12]
+  spectra_bg: [13,14,15,16,17]
+- file: doc_b3_rep1.axz
+  condition: B
+  replicate: C
+  amp1625: 11
+  amp1650: 10
+  spectra_loc: 11
+  spectra_ib: [ 3, 4, 5, 6, 7]
+  spectra_cp: [ 8, 9,10,11,12]
+  spectra_bg: [13,14,15,16,17]
+- file: doc_h3_rep1a.axz
+  condition: H
+  replicate: C
+  amp1650: 13
+  amp1625: 14
+- file: doc_h3_rep1b.axz
+  condition: H
+  replicate: C
+  # spectra_loc: None
+  spectra_ib: [ 1, 2, 3, 4, 5]
+  spectra_cp: [ 6, 7, 8, 9,10]
+  spectra_bg: [11,12,13,14,15]
+- file: doc_r3_rep1b.axz
+  condition: R1
+  replicate: C
+  amp1650: 2
+  amp1625: 4
+  spectra_loc: 4
+  spectra_ib: [ 4, 5, 6, 7, 8]
+  spectra_cp: [ 9,10,11,12,13]
+  spectra_bg: [14,15,16,17,18]

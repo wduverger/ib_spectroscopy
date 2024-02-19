@@ -1,0 +1,233 @@
+# - file: 230707_ba_irmaps.axz
+#   condition: B
+#   series: july
+#   replicate: A
+#   cantilever: TB008I
+#   amp1650: 1
+#   amp1625: 2
+#   spectra_bg: [1, 2]
+#   spectra_cp: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+# - file: 230709_ha_irspectra.axz
+#   condition: H
+#   series: july
+#   replicate: A
+#   cantilever: TB008I
+#   amp1650: 1
+#   amp1625: 2
+#   spectra_ib: [ 1, 2, 3, 4, 5]
+#   spectra_cp: [ 6, 7, 8, 9,10]
+#   spectra_bg: [11,12,13,14,15]
+# - file: 230709_r5a_irdata.axz
+#   condition: R5
+#   series: july
+#   replicate: A
+#   cantilever: TB008I
+#   amp1650: 1
+#   amp1625: 2
+#   spectra_ib: [ 2, 3, 4, 5, 6]
+#   spectra_cp: [ 7, 8, 9,10,11]
+#   spectra_bg: [12,13,14,15,16]
+# - file: 230710_r1a_irmaps.axz
+#   condition: R1
+#   series: july
+#   replicate: A
+#   cantilever: TB008I
+#   amp1650: 1
+#   amp1625: 2
+# - file: 230710_r1a_irspectra.axz
+#   condition: R1
+#   series: july
+#   replicate: A
+#   cantilever: TB008I
+#   spectra_ib: [ 1, 2, 3, 4, 5]
+#   spectra_cp: [ 6, 7, 8, 9,10]
+#   spectra_bg: [11,12,13,14,15]
+# - file: 230710_r2a.axz
+#   condition: R2
+#   series: july
+#   replicate: A
+#   cantilever: TB008I
+#   amp1650: 5
+#   amp1625: 6
+#   spectra_ib: [ 4, 5, 6, 7, 8]
+#   spectra_cp: [ 9,10,11,12,13]
+#   spectra_bg: [14,15,16,17,18]
+# # Deleted because of a bad cantilever
+# - file: 230711_bb_irdata.axz
+#   condition: B
+#   series: july
+#   replicate: B
+#   cantilever: TB008I
+#   amp1625: 1
+#   amp1650: 2
+#   spectra_ib: [ 2, 3, 4, 5, 6]
+#   spectra_cp: [ 7, 8, 9,10,11]
+#   spectra_bg: [12,13,14,15,16]
+# - file: 230712_hb_irmaps.axz
+#   condition: H
+#   series: july
+#   replicate: B
+#   cantilever: TB008I
+#   amp1650: 1
+#   amp1625: 2
+#   spectra_ib:
+- file: 230712_bb_irdata.axz
+  condition: B
+  series: july
+  replicate: B
+  cantilever: TB008J
+  amp1650: 2
+  amp1625: 3
+  spectra_ib: [ 4, 5, 6, 7, 8]
+  spectra_cp: [ 9,10,11,12,13]
+  spectra_bg: [14,15,16,17,18]
+- file: 230713_hb_irdata.axz
+  condition: H
+  series: july
+  replicate: B
+  cantilever: TB008J
+  amp1650: 1
+  amp1625: 2
+  spectra_ib: [ 1, 2, 3, 4, 5]
+  spectra_cp: [ 6, 7, 8, 9,10]
+  spectra_bg: [11,12,13,14,15]
+- file: 230713_r5b.axz
+  condition: R5
+  series: july
+  replicate: B
+  cantilever: TB008J
+  amp1650: 8
+  amp1625: 9
+  spectra_ib: [ 1, 2, 3, 4, 5]
+  spectra_cp: [ 6, 7, 8, 9,10]
+  spectra_bg: [11,12,13,14,15]
+- file: 230713_r1b_irdata.axz
+  condition: R1
+  series: july
+  replicate: B
+  cantilever: TB008J
+  amp1650: 1
+  amp1625: 2
+  spectra_ib: [ 1, 2, 3, 4, 5]
+  spectra_cp: [ 6, 7, 8, 9,10]
+  spectra_bg: [11,12,13,14,15]
+- file: 230714_r2b.axz
+  condition: R2
+  series: july
+  replicate: B
+  cantilever: TB008J
+  amp1650: 8
+  amp1625: 9
+  spectra_ib: [ 2, 3, 4, 5, 6]
+  spectra_cp: [ 7, 8, 9,10,11]
+  spectra_bg: [12,13,14,15,16]
+- file: 230714_bc.axz
+  condition: B
+  series: july
+  replicate: C
+  cantilever: TB008J
+  amp1650: 17
+  amp1625: 18
+  spectra_ib: [ 1, 2, 3, 4, 5]
+  spectra_cp: [ 6, 7, 8, 9,10]
+  spectra_bg: [11,12,13,14,15]
+- file: 230717_hc_irdata.axz
+  condition: H
+  series: july
+  replicate: C
+  cantilever: TB008J
+  amp1650: 2
+  amp1625: 3
+  spectra_ib: [ 2, 3, 4, 5, 6]
+  spectra_cp: [ 7, 8, 9,10,11]
+  spectra_bg: [12,13,14,15,16] 
+- file: 230717_r5c_irdata.axz
+  condition: R5
+  series: july
+  replicate: C
+  cantilever: TB008J
+  amp1650: 1
+  amp1625: 2
+  spectra_ib: [ 2, 3, 4, 5, 6]
+  spectra_cp: [ 7, 8, 9,10,11]
+  spectra_bg: [12,13,14,15,16]
+- file: 230718_r1c_irmaps.axz
+  condition: R1
+  series: july
+  replicate: C
+  cantilever: TB008J
+  amp1650: 5
+  amp1625: 6
+- file: 230718_r1c_irspectra.axz
+  condition: R1
+  series: july
+  replicate: C
+  cantilever: TB008J
+  spectra_ib: [ 1, 2, 3, 4, 5]
+  spectra_cp: [ 6, 7, 8, 9,10]
+  spectra_bg: [11,12,13,14,15]
+- file: 230718_r2c_irmaps.axz
+  condition: R2
+  series: july
+  replicate: C
+  cantilever: TB008J
+  amp1650: 1
+  amp1625: 2
+  spectra_ib: [ 2, 3, 4, 5, 6]
+  spectra_cp: [ 7, 8, 9,10,11]
+  spectra_bg: [12,13,14,15,16]
+- file: 230719_ba.axz
+  condition: B
+  series: july
+  replicate: A
+  cantilever: TB008J
+  amp1650: 1
+  amp1625: 2
+  spectra_ib: [ 1, 2, 3, 4, 5]
+  spectra_cp: [ 6, 7, 8, 9,10]
+  spectra_bg: [11,12,13,14,15]
+- file: 230720_ha.axz
+  condition: H
+  series: july
+  replicate: A
+  cantilever: TB008J
+  amp1650: 1
+  amp1625: 2
+  spectra_ib: [ 1, 2, 3, 4, 5]
+  spectra_cp: [ 7, 8, 9,10]
+  spectra_bg: [ 6,11,12,13,14,15]
+- file: 230720_r5a.axz
+  condition: R5
+  series: july
+  replicate: A
+  cantilever: TB008J
+  amp1650: 1
+  amp1625: 2
+  spectra_ib: [ 1, 2, 3, 4, 5]
+  spectra_cp: [ 6, 7, 8, 9,10]
+  spectra_bg: [11,12,13,14,15]
+- file: 230721_r1a.axz
+  condition: R1
+  series: july
+  replicate: A
+  cantilever: TB008J
+  amp1650: 1
+  amp1625: 2
+  spectra_ib: [ 1, 2, 3, 4, 5]
+  spectra_cp: [ 6, 7, 8, 9,10]
+  spectra_bg: [11,12,13,14,15]
+- file: 230722_r2a_irmaps.axz
+  condition: R2
+  series: july
+  replicate: A
+  cantilever: TB008J
+  amp1650: 4
+  amp1625: 5
+- file: 230723_r2a_irspectra.axz
+  condition: R2
+  series: july
+  replicate: A
+  cantilever: TB008J
+  spectra_ib: [ 1, 2, 3, 4, 5]
+  spectra_cp: [ 6, 7, 8, 9,10]
+  spectra_bg: [11,12,13,14,15]
