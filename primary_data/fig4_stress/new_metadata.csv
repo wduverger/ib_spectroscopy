@@ -1,0 +1,184 @@
+path,condition,date,feature,spectrum_label
+p33/p33 20211112.axz,p33,2021-11-12,ib,inclusion p33 200x IR4
+p33/p33 20211112.axz,p33,2021-11-12,ib,inclusion p33 200x IR 4 2 spot
+p33/p33 20211112.axz,p33,2021-11-12,ib,imclusion p33 200x IR4 1 spot 
+p33/p33 20211112.axz,p33,2021-11-12,ib,inclusion p33 100x IR4 spot 3
+p33/p33 20211112.axz,p33,2021-11-12,cp,cytoplasm p33
+p33/p33 20211112.axz,p33,2021-11-12,cp,cytoplasm p33 (1)
+p33/p33 20211112.axz,p33,2021-11-12,cp,cytoplasm p33 (2)
+p33/p33 20211112.axz,p33,2021-11-12,cp,cytoplasm p33 (3)
+p33/p33 20211112.axz,p33,2021-11-12,cp,cytoplasm p33 (3)
+p33/p33 20211112.axz,p33,2021-11-12,cp,cytoplasm p33 100x IR4 2 spot
+p33/p33 20211112.axz,p33,2021-11-12,cp,cytoplasm p33 (4)
+p33/p33 20211112.axz,p33,2021-11-12,bg,background
+p33/p33 20211112.axz,p33,2021-11-12,ib,bacterial inclusion p33
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,ib,inclo
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,ib,inclo 2
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,ib,inclo 3
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,ib,inclo 1 fig 2
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,ib,inclo 2 fig 2
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,ib,inclo 3 fig 2
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,ib,inclo 1 fig 3
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,ib,inclo 2 fig 3
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,ib,inclo 1 fig 4
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,ib,inclo 2 fig 4
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,cp,cyto
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,cp,cyto 1 fig 2
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,cp,cyto fig 3
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,cp,cyto fig 4
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,bg,back fig 3
+H2O2/H2O2 20220125.axz,H₂O₂,2022-01-25,bg,back fig 4
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,ib,inclo 1
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,ib,inclo 2
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,ib,inclo 3
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,bg,background
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,cp,cyto fig 1
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,cp,cyto fig 2
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,cp,cyto 2 fig 2
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,ib,inclo 1 fig 2
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,ib,inclo 2 fig 2
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,ib,inclo 3 fig 2
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,bg,background 1 fig 2
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,ib,inclo 4 fig 2
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,ib,inclo 5 fig 2
+H2O2/H2O2 20220204.axz,H₂O₂,2022-02-04,ib,Spectrum 17
+H2O2/H2O2 20220519 fov1.axz,H₂O₂,2022-05-19,bg,bg1
+H2O2/H2O2 20220519 fov1.axz,H₂O₂,2022-05-19,ib,ib1
+H2O2/H2O2 20220519 fov1.axz,H₂O₂,2022-05-19,cp,cp1
+H2O2/H2O2 20220519 fov1.axz,H₂O₂,2022-05-19,ib,ib2
+H2O2/H2O2 20220519 fov1.axz,H₂O₂,2022-05-19,ib,ib3
+H2O2/H2O2 20220519 fov1.axz,H₂O₂,2022-05-19,ib,ib4
+H2O2/H2O2 20220519 fov1.axz,H₂O₂,2022-05-19,ib,ib5
+H2O2/H2O2 20220519 fov1.axz,H₂O₂,2022-05-19,cp,cp2
+H2O2/H2O2 20220519 fov2.axz,H₂O₂,2022-05-19,cp,cp2
+H2O2/H2O2 20220519 fov2.axz,H₂O₂,2022-05-19,cp,cp3
+H2O2/H2O2 20220519 fov2.axz,H₂O₂,2022-05-19,cp,cp4
+H2O2/H2O2 20220519 fov2.axz,H₂O₂,2022-05-19,cp,cp5
+H2O2/H2O2 20220519 fov2.axz,H₂O₂,2022-05-19,bg,bg1
+H2O2/H2O2 20220519 fov2.axz,H₂O₂,2022-05-19,bg,bg2
+H2O2/H2O2 20220519 fov2.axz,H₂O₂,2022-05-19,bg,bg3
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,ib,ib1 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,cp,cp1 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,ib,ib2 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,cp,cp2 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,ib,ib3 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,cp,cp3 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,ib,ib4 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,cp,cp4 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,ib,ib5 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,ib,ib6 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,cp,cp6 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,bg,bg1 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,ib,ib7 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,cp,cp7 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,ib,ib8 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,ib,ib9 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,cp,cp9 c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,ib,ib10? c100
+cocl2/2022-02-03 cocl2 wouter.axz,CoCl₂,2022-02-03,bg,bg2 c100
+ctrl/2022-02-09 ib ctrl repeat.axz,buffer,2022-02-09,ib,ib1
+ctrl/2022-02-09 ib ctrl repeat.axz,buffer,2022-02-09,cp,cp1
+ctrl/2022-02-09 ib ctrl repeat.axz,buffer,2022-02-09,bg,bg1
+ctrl/2022-02-09 ib ctrl repeat.axz,buffer,2022-02-09,ib,ib2
+ctrl/2022-02-09 ib ctrl repeat.axz,buffer,2022-02-09,cp,cp2
+ctrl/2022-02-09 ib ctrl repeat.axz,buffer,2022-02-09,ib,ib3
+ctrl/2022-02-09 ib ctrl repeat.axz,buffer,2022-02-09,cp,cp3
+ctrl/2022-02-09 ib ctrl repeat.axz,buffer,2022-02-09,ib,ib4
+ctrl/2022-02-09 ib ctrl repeat.axz,buffer,2022-02-09,cp,cp4
+ctrl/2022-02-09 ib ctrl repeat.axz,buffer,2022-02-09,bg,bg2
+ctrl/2022-02-09 ib ctrl repeat.axz,buffer,2022-02-09,ib,ib5
+ctrl/2022-02-09 ib ctrl repeat.axz,buffer,2022-02-09,cp,cp5
+ctrl/2022-06-14 ctrl by grigoria.axz,buffer,2022-06-14,cp,cyto fig 1
+ctrl/2022-06-14 ctrl by grigoria.axz,buffer,2022-06-14,bg,back fig 1
+ctrl/2022-06-14 ctrl by grigoria.axz,buffer,2022-06-14,cp,cyto 2 fig 1
+ctrl/2022-06-14 ctrl by grigoria.axz,buffer,2022-06-14,bg,back 2 fig 1
+ctrl/2022-06-14 ctrl by grigoria.axz,buffer,2022-06-14,ib,inclo fig 1 10x10
+ctrl/2022-06-14 ctrl by grigoria.axz,buffer,2022-06-14,ib,inclo 1x1 a fig 1
+ctrl/2022-06-14 ctrl by grigoria.axz,buffer,2022-06-14,ib,inclo 1x1 b fig 1
+ctrl/2022-06-14 ctrl by grigoria.axz,buffer,2022-06-14,cp,cyto fig 3
+ctrl/2022-06-14 ctrl by grigoria.axz,buffer,2022-06-14,cp,cyto 2 fig 3
+ctrl/2022-06-14 ctrl by grigoria.axz,buffer,2022-06-14,bg,back fig 3
+ctrl/2022-06-14 ctrl by grigoria.axz,buffer,2022-06-14,bg,back 2 fig 3
+ctrl/2022-06-14 ctrl by grigoria.axz,buffer,2022-06-14,ib,inclo fig 3 b
+p53/2022-02-24_p53.axz,p53,2022-02-24,ib,ib1
+p53/2022-02-24_p53.axz,p53,2022-02-24,cp,cp1
+p53/2022-02-24_p53.axz,p53,2022-02-24,bg,bg1
+p53/2022-02-24_p53.axz,p53,2022-02-24,ib,ib2
+p53/2022-02-24_p53.axz,p53,2022-02-24,cp,cp2
+p53/2022-02-24_p53.axz,p53,2022-02-24,cp,cp3
+p53/2022-02-24_p53.axz,p53,2022-02-24,ib,ib3
+p53/2022-02-24_p53.axz,p53,2022-02-24,ib,ib4
+p53/2022-02-24_p53.axz,p53,2022-02-24,ib,ib5
+p53/2022-02-24_p53.axz,p53,2022-02-24,cp,cp4
+p53/2022-02-24_p53.axz,p53,2022-02-24,bg,Spectrum 16
+p33/2022-03-09_p33-with-closeup.axz,p33,2022-03-09,ib,ib2 c100
+p33/2022-03-09_p33-with-closeup.axz,p33,2022-03-09,ib,ib3
+p33/2022-03-09_p33-with-closeup.axz,p33,2022-03-09,ib,ib4
+p33/2022-03-09_p33-with-closeup.axz,p33,2022-03-09,ib,ib5
+p33/2022-03-09_p33-with-closeup.axz,p33,2022-03-09,ib,ib6
+p33/2022-03-09_p33-with-closeup.axz,p33,2022-03-09,cp,cp1
+p33/2022-03-09_p33-with-closeup.axz,p33,2022-03-09,cp,cp2
+p33/2022-03-09_p33-with-closeup.axz,p33,2022-03-09,cp,cp5
+p33/2022-03-09_p33-with-closeup.axz,p33,2022-03-09,bg,bg1
+p33/2022-03-09_p33-with-closeup.axz,p33,2022-03-09,bg,bg2
+p2_200/2022-03-25_p2-200.axz,p2,2022-03-25,ib,ib1
+p2_200/2022-03-25_p2-200.axz,p2,2022-03-25,cp,Spectrum 2
+p2_200/2022-03-25_p2-200.axz,p2,2022-03-25,bg,Spectrum 3
+p2_200/2022-03-25_p2-200.axz,p2,2022-03-25,ib,ib2
+p2_200/2022-03-25_p2-200.axz,p2,2022-03-25,ib,Spectrum 5
+p2_200/2022-03-25_p2-200.axz,p2,2022-03-25,ib,Spectrum 7
+p2_200/2022-03-25_p2-200.axz,p2,2022-03-25,ib,Spectrum 8
+p2_200/2022-03-25_p2-200.axz,p2,2022-03-25,cp,Spectrum 9
+p2_200/2022-03-25_p2-200.axz,p2,2022-03-25,cp,Spectrum 10
+p2_200/2022-03-25_p2-200.axz,p2,2022-03-25,cp,Spectrum 11
+p2_200/2022-03-28_p2-200.axz,p2,2022-03-28,cp,cp1
+p2_200/2022-03-28_p2-200.axz,p2,2022-03-28,ib,ib1
+p2_200/2022-03-28_p2-200.axz,p2,2022-03-28,ib,ib2
+p2_200/2022-03-28_p2-200.axz,p2,2022-03-28,bg,bg1
+heat shock/2022-04-11_heat-shock-1.axz,heat,2022-04-11,ib,Spectrum 4
+heat shock/2022-04-11_heat-shock-1.axz,heat,2022-04-11,cp,Spectrum 5
+heat shock/2022-04-11_heat-shock-1.axz,heat,2022-04-11,bg,Spectrum 6
+heat shock/2022-04-11_heat-shock-1.axz,heat,2022-04-11,ib,Spectrum 7
+heat shock/2022-04-11_heat-shock-1.axz,heat,2022-04-11,cp,Spectrum 8
+heat shock/2022-04-11_heat-shock-1.axz,heat,2022-04-11,bg,Spectrum 9
+heat shock/2022-04-11_heat-shock-1.axz,heat,2022-04-11,ib,Spectrum 10
+heat shock/2022-04-11_heat-shock-1.axz,heat,2022-04-11,cp,Spectrum 11
+heat shock/2022-04-11_heat-shock-1.axz,heat,2022-04-11,ib,Spectrum 12
+heat shock/2022-04-11_heat-shock-1.axz,heat,2022-04-11,cp,Spectrum 13
+heat shock/2022-04-13_heat-shock-1.axz,heat,2022-04-13,ib,ib1
+heat shock/2022-04-13_heat-shock-1.axz,heat,2022-04-13,ib,ib2
+heat shock/2022-04-13_heat-shock-1.axz,heat,2022-04-13,ib,ib2 (1)
+heat shock/2022-04-13_heat-shock-1.axz,heat,2022-04-13,cp,cp1
+heat shock/2022-04-13_heat-shock-1.axz,heat,2022-04-13,cp,cp2
+heat shock/2022-04-13_heat-shock-1.axz,heat,2022-04-13,bg,bg1
+heat shock/2022-04-13_heat-shock-1.axz,heat,2022-04-13,bg,bg2
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,ib,ib1
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,ib,ib2
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,cp,cp1
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,cp,cp2
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,cp,cp3
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,bg,bg1
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,bg,bg2
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,bg,bg3
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,ib,ib3
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,ib,ib4
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,ib,ib5
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,cp,cp4
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,cp,cp5
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,cp,cp6
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,bg,bg4
+heat shock/2022-05-24 hs1.axz,heat,2022-05-24,bg,bg5
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,ib,ib1
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,ib,ib2
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,ib,ib3
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,ib,ib4
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,ib,ib5
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,ib,ib6
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,cp,cp1
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,cp,cp2
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,cp,cp3
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,cp,cp4
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,cp,cp5
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,bg,bg1
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,bg,bg2
+nicl2/2022-04-19_nicl2-1.axz,NiCl₂,2022-04-19,bg,bg3

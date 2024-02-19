@@ -1,0 +1,407 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s23">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#DCDCFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s24">
+    <Font x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#DCDCFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="hh:mm:ss.0"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table>
+  <Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="120.0"/>
+  <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="120.0"/>
+  <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="120.0"/>
+  <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="120.0"/>
+  <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="120.0"/>
+  <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="120.0"/>
+  <Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="120.0"/>
+  <Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="120.0"/>
+  <Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="120.0"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">#</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sample ID</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">User name</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Date and Time</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Protein</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Unit</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">A280 (Abs)</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">260/280</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Sample Type</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">B1</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:40:32</Data></Cell>
+    <Cell><Data ss:Type="Number">10,439</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">6,994</Data></Cell>
+    <Cell><Data ss:Type="Number">1,30</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">H1</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:41:27</Data></Cell>
+    <Cell><Data ss:Type="Number">11,012</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">7,378</Data></Cell>
+    <Cell><Data ss:Type="Number">1,30</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">H1</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:43:13</Data></Cell>
+    <Cell><Data ss:Type="Number">9,658</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">6,471</Data></Cell>
+    <Cell><Data ss:Type="Number">1,31</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">R1</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:45:15</Data></Cell>
+    <Cell><Data ss:Type="Number">13,754</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">9,215</Data></Cell>
+    <Cell><Data ss:Type="Number">1,28</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">B2</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:45:55</Data></Cell>
+    <Cell><Data ss:Type="Number">13,028</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">8,729</Data></Cell>
+    <Cell><Data ss:Type="Number">1,30</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">B2</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:46:36</Data></Cell>
+    <Cell><Data ss:Type="Number">12,075</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">8,090</Data></Cell>
+    <Cell><Data ss:Type="Number">1,28</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">H2</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:46:52</Data></Cell>
+    <Cell><Data ss:Type="Number">11,927</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">7,991</Data></Cell>
+    <Cell><Data ss:Type="Number">1,31</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">R2</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:47:59</Data></Cell>
+    <Cell><Data ss:Type="Number">11,721</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">7,853</Data></Cell>
+    <Cell><Data ss:Type="Number">1,28</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">B3</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:48:39</Data></Cell>
+    <Cell><Data ss:Type="Number">13,766</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">9,223</Data></Cell>
+    <Cell><Data ss:Type="Number">1,31</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">H3</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:49:33</Data></Cell>
+    <Cell><Data ss:Type="Number">12,313</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">8,249</Data></Cell>
+    <Cell><Data ss:Type="Number">1,33</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">R3</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:50:13</Data></Cell>
+    <Cell><Data ss:Type="Number">14,088</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">9,439</Data></Cell>
+    <Cell><Data ss:Type="Number">1,31</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">B4</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:51:44</Data></Cell>
+    <Cell><Data ss:Type="Number">16,407</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">10,993</Data></Cell>
+    <Cell><Data ss:Type="Number">1,30</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String">H4</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:52:24</Data></Cell>
+    <Cell><Data ss:Type="Number">14,690</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">9,842</Data></Cell>
+    <Cell><Data ss:Type="Number">1,29</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">R4</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:53:07</Data></Cell>
+    <Cell><Data ss:Type="Number">14,052</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">9,415</Data></Cell>
+    <Cell><Data ss:Type="Number">1,31</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="String">R4</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:53:48</Data></Cell>
+    <Cell><Data ss:Type="Number">16,316</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">10,932</Data></Cell>
+    <Cell><Data ss:Type="Number">1,30</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">B5</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:53:59</Data></Cell>
+    <Cell><Data ss:Type="Number">15,436</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">10,342</Data></Cell>
+    <Cell><Data ss:Type="Number">1,29</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="String">H5</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:54:57</Data></Cell>
+    <Cell><Data ss:Type="Number">14,423</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">9,663</Data></Cell>
+    <Cell><Data ss:Type="Number">1,31</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">R5</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:55:34</Data></Cell>
+    <Cell><Data ss:Type="Number">13,517</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">9,056</Data></Cell>
+    <Cell><Data ss:Type="Number">1,31</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">B6</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:56:40</Data></Cell>
+    <Cell><Data ss:Type="Number">15,715</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">10,529</Data></Cell>
+    <Cell><Data ss:Type="Number">1,30</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">H6</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:57:31</Data></Cell>
+    <Cell><Data ss:Type="Number">15,399</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">10,317</Data></Cell>
+    <Cell><Data ss:Type="Number">1,30</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">R6</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:58:14</Data></Cell>
+    <Cell><Data ss:Type="Number">16,227</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">10,872</Data></Cell>
+    <Cell><Data ss:Type="Number">1,30</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">B7</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 13:59:40</Data></Cell>
+    <Cell><Data ss:Type="Number">11,818</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">7,918</Data></Cell>
+    <Cell><Data ss:Type="Number">1,31</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="String">H7</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 14:00:20</Data></Cell>
+    <Cell><Data ss:Type="Number">12,506</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">8,379</Data></Cell>
+    <Cell><Data ss:Type="Number">1,32</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="String">R7</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 14:00:58</Data></Cell>
+    <Cell><Data ss:Type="Number">12,231</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">8,195</Data></Cell>
+    <Cell><Data ss:Type="Number">1,30</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">B8</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 14:01:39</Data></Cell>
+    <Cell><Data ss:Type="Number">9,097</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">6,095</Data></Cell>
+    <Cell><Data ss:Type="Number">1,32</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="String">H8</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 14:02:24</Data></Cell>
+    <Cell><Data ss:Type="Number">10,585</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">7,092</Data></Cell>
+    <Cell><Data ss:Type="Number">1,31</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="String">R8</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 14:03:09</Data></Cell>
+    <Cell><Data ss:Type="Number">10,224</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">6,850</Data></Cell>
+    <Cell><Data ss:Type="Number">1,35</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="String">B9</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 14:03:46</Data></Cell>
+    <Cell><Data ss:Type="Number">22,581</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">15,130</Data></Cell>
+    <Cell><Data ss:Type="Number">1,37</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">H9</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 14:04:27</Data></Cell>
+    <Cell><Data ss:Type="Number">11,456</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">7,676</Data></Cell>
+    <Cell><Data ss:Type="Number">1,33</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">R9</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 14:05:05</Data></Cell>
+    <Cell><Data ss:Type="Number">11,445</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">7,668</Data></Cell>
+    <Cell><Data ss:Type="Number">1,35</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="String">B9</Data></Cell>
+    <Cell><Data ss:Type="String">Wouter Duverger</Data></Cell>
+    <Cell><Data ss:Type="String">23/08/2023 14:05:51</Data></Cell>
+    <Cell><Data ss:Type="Number">10,871</Data></Cell>
+    <Cell><Data ss:Type="String">mg/ml</Data></Cell>
+    <Cell><Data ss:Type="Number">7,283</Data></Cell>
+    <Cell><Data ss:Type="Number">1,37</Data></Cell>
+    <Cell><Data ss:Type="String">BSA</Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,400 @@
+- file: p33/p33 20211112.axz
+  condition: p33
+  date: 2021-11-12
+  spectra_ib: [
+    inclusion p33 200x IR4,
+    inclusion p33 200x IR 4 2 spot,
+    "imclusion p33 200x IR4 1 spot ",
+    inclusion p33 100x IR4 spot 3,
+    bacterial inclusion p33
+  ]
+  spectra_cp: [
+    "cytoplasm p33",
+    "cytoplasm p33 (1)",
+    "cytoplasm p33 (2)",
+    "cytoplasm p33 (3)",
+    "cytoplasm p33 100x IR4 2 spot",
+    "cytoplasm p33 (4)",
+  ]
+  spectra_bg: [
+    background
+  ]
+
+- file: H2O2/H2O2 20220125.axz
+  condition: H₂O₂
+  date: 2022-01-25
+  spectra_ib: [
+    inclo,
+    inclo 2,
+    inclo 3,
+    inclo 1 fig 2,
+    inclo 2 fig 2,
+    inclo 3 fig 2,
+    inclo 1 fig 3,
+    inclo 2 fig 3,
+    inclo 1 fig 4,
+    inclo 2 fig 4,
+  ]
+  spectra_cp: [
+    cyto,
+    cyto 1 fig 2,
+    cyto fig 3,
+    cyto fig 4,
+  ]
+  spectra_bg: [
+    back fig 3,
+    back fig 4,
+  ]
+
+# - file: H2O2/H2O2 20220204.axz
+#   condition: H₂O₂
+#   date: 2022-02-04
+#   spectra_ib: [
+#     inclo 1,
+#     inclo 2,
+#     inclo 3,
+#     inclo 1 fig 2,
+#     inclo 2 fig 2,
+#     inclo 3 fig 2,
+#     inclo 4 fig 2,
+#     inclo 5 fig 2,
+#     Spectrum 17,
+#   ]
+#   spectra_cp: [
+#     cyto fig 1,
+#     cyto fig 2,
+#     cyto 2 fig 2,
+#   ]
+#   spectra_bg: [
+#     background,
+#     background 1 fig 2,
+#   ]
+
+# - file: H2O2/H2O2 20220519 fov1.axz
+#   condition: H₂O₂
+#   date: 2022-05-19
+#   spectra_ib: [
+#     ib,ib1
+#     ib,ib2
+#     ib,ib3
+#     ib,ib4
+#     ib,ib5
+#   ]
+#   spectra_cp: [
+#     cp,cp1
+#     cp,cp2
+#   ]
+#   spectra_bg: [
+#     bg,bg1
+#   ]
+
+# - file: H2O2/H2O2 20220519 fov2.axz
+#   condition: H₂O₂
+#   date: 2022-05-19
+#   spectra_ib: [
+#   ]
+#   spectra_cp: [
+#     cp,cp2
+#     cp,cp3
+#     cp,cp4
+#     cp,cp5
+#   ]
+#   spectra_bg: [
+#     bg,bg1
+#     bg,bg2
+#     bg,bg3
+#   ]
+
+# ChatGPT
+
+- file: H2O2/H2O2 20220204.axz
+  condition: H₂O₂
+  date: 2022-02-04
+  spectra_ib: [
+    inclo 1,
+    inclo 2,
+    inclo 3,
+    inclo 1 fig 2,
+    inclo 2 fig 2,
+    inclo 3 fig 2,
+    inclo 4 fig 2,
+    inclo 5 fig 2,
+    Spectrum 17
+  ]
+  spectra_bg: [
+    background,
+    background 1 fig 2,
+  ]
+  spectra_cp: [
+    cyto fig 1,
+    cyto fig 2,
+    cyto 2 fig 2,
+  ]
+
+- file: H2O2/H2O2 20220519 fov1.axz
+  condition: H₂O₂
+  date: 2022-05-19
+  spectra_bg: [
+    bg1
+  ]
+  spectra_ib: [
+    ib1,
+    ib2,
+    ib3,
+    ib4,
+    ib5
+  ]
+  spectra_cp: [
+    cp1,
+    cp2
+  ]
+
+- file: H2O2/H2O2 20220519 fov2.axz
+  condition: H₂O₂
+  date: 2022-05-19
+  spectra_bg: [
+    bg1,
+    bg2,
+    bg3
+  ]
+  spectra_cp: [
+    cp2,
+    cp3,
+    cp4,
+    cp5
+  ]
+
+- file: cocl2/2022-02-03 cocl2 wouter.axz
+  condition: CoCl₂
+  date: 2022-02-03
+  spectra_ib: [
+    ib1 c100,
+    ib2 c100,
+    ib3 c100,
+    ib4 c100,
+    ib5 c100,
+    ib6 c100,
+    ib7 c100,
+    ib8 c100,
+    ib9 c100,
+    "ib10? c100"
+  ]
+  spectra_cp: [
+    cp1 c100,
+    cp2 c100,
+    cp3 c100,
+    cp4 c100,
+    cp6 c100
+  ]
+  spectra_bg: [
+    bg1 c100,
+    bg2 c100
+  ]
+
+- file: ctrl/2022-02-09 ib ctrl repeat.axz
+  condition: buffer
+  date: 2022-02-09
+  spectra_ib: [
+    ib1,
+    ib2,
+    ib3,
+    ib4,
+    ib5
+  ]
+  spectra_cp: [
+    cp1,
+    cp2,
+    cp3,
+    cp4,
+    cp5
+  ]
+  spectra_bg: [
+    bg1,
+    bg2
+  ]
+
+- file: ctrl/2022-06-14 ctrl by grigoria.axz
+  condition: buffer
+  date: 2022-06-14
+  spectra_cp: [
+    cyto fig 1,
+    cyto 2 fig 1,
+    cyto fig 3,
+    cyto 2 fig 3
+  ]
+  spectra_bg: [
+    back fig 1,
+    back 2 fig 1,
+    back fig 3,
+    back 2 fig 3
+  ]
+  spectra_ib: [
+    inclo fig 1 10x10,
+    inclo 1x1 a fig 1,
+    inclo 1x1 b fig 1,
+    inclo fig 3 b
+  ]
+
+- file: p53/2022-02-24_p53.axz
+  condition: p53
+  date: 2022-02-24
+  spectra_ib: [
+    ib1,
+    ib2,
+    ib3,
+    ib4,
+    ib5
+  ]
+  spectra_cp: [
+    cp1,
+    cp2,
+    cp3,
+    cp4
+  ]
+  spectra_bg: [
+    bg1,
+    Spectrum 16
+  ]
+
+- file: p33/2022-03-09_p33-with-closeup.axz
+  condition: p33
+  date: 2022-03-09
+  spectra_ib: [
+    ib2 c100,
+    ib3,
+    ib4,
+    ib5,
+    ib6
+  ]
+  spectra_cp: [
+    cp1,
+    cp2,
+    # cp3,
+    # cp4,
+    cp5
+  ]
+  spectra_bg: [
+    bg1,
+    bg2
+  ]
+
+- file: p2_200/2022-03-25_p2-200.axz
+  condition: p2
+  date: 2022-03-25
+  spectra_ib: [
+    ib1,
+    ib2,
+    Spectrum 5,
+    Spectrum 7,
+    Spectrum 8
+  ]
+  spectra_cp: [
+    Spectrum 2,
+    Spectrum 9,
+    Spectrum 10,
+    Spectrum 11
+  ]
+  spectra_bg: [
+    Spectrum 3
+  ]
+
+- file: p2_200/2022-03-28_p2-200.axz
+  condition: p2
+  date: 2022-03-28
+  spectra_ib: [
+    ib1,
+    ib2
+  ]
+  spectra_cp: [
+    cp1
+  ]
+  spectra_bg: [
+    bg1
+  ]
+
+- file: heat shock/2022-04-11_heat-shock-1.axz
+  condition: heat
+  date: 2022-04-11
+  spectra_ib: [
+    Spectrum 4,
+    Spectrum 7,
+    Spectrum 10,
+    Spectrum 12
+  ]
+  spectra_cp: [
+    Spectrum 5,
+    Spectrum 8,
+    Spectrum 11,
+    Spectrum 13
+  ]
+  spectra_bg: [
+    Spectrum 6,
+    Spectrum 9
+  ]
+
+- file: heat shock/2022-04-13_heat-shock-1.axz
+  condition: heat
+  date: 2022-04-13
+  spectra_ib: [
+    ib1,
+    ib2,
+    ib2 (1),
+  ]
+  spectra_cp: [
+    cp1,
+    cp2
+  ]
+  spectra_bg: [
+    bg1,
+    bg2
+  ]
+
+- file: heat shock/2022-05-24 hs1.axz
+  condition: heat
+  date: 2022-05-24
+  spectra_ib: [
+    ib1,
+    ib2,
+    ib3,
+    ib4,
+    ib5
+  ]
+  spectra_cp: [
+    cp1,
+    cp2,
+    cp3,
+    cp4,
+    cp5,
+    cp6
+  ]
+  spectra_bg: [
+    bg1,
+    bg2,
+    bg3,
+    bg4,
+    bg5
+  ]
+
+- file: nicl2/2022-04-19_nicl2-1.axz
+  condition: NiCl₂
+  date: 2022-04-19
+  spectra_ib: [
+    ib1,
+    ib2,
+    ib3,
+    ib4,
+    ib5,
+    ib6
+  ]
+  spectra_cp: [
+    cp1,
+    cp2,
+    cp3,
+    cp4,
+    cp5
+  ]
+  spectra_bg: [
+    bg1,
+    bg2,
+    bg3
+  ]
