@@ -28,12 +28,12 @@ If you use this code in your work, please cite the following publication:
 
 > Duverger et al. Single-cell infrared absorption spectroscopy of bacterial inclusion bodies. 2024. (submitted)
 
-When explicitly referencing the data or code, use the DOI assigned to this repository: [DOI forthcoming][doi-repo-link]
+When explicitly referencing the data or code, use the DOI assigned to this repository: [10.6084/m9.figshare.25398622][doi-repo-link]
 
 [cc-by-link]:       http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]:      https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]:     https://img.shields.io/badge/License-CC%20BY%204.0-tomato.svg
 [doi-paper-shield]: https://img.shields.io/badge/DOI%20(paper)-forthcoming-tomato
-[doi-repo-shield]:  https://img.shields.io/badge/DOI%20(repository)-forthcoming-tomato
 [doi-paper-link]:   https://doi.org/forthcoming
-[doi-repo-link]:    https://doi.org/forthcoming
+[doi-repo-shield]:  https://img.shields.io/badge/DOI%20(repository)-10.6084/m9.figshare.25398622-tomato
+[doi-repo-link]:    https://doi.org/10.6084/m9.figshare.25398622
