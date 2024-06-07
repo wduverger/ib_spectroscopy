@@ -159,7 +159,7 @@ def test_mean_differences(data, outcome, groupby, subgroups=None, mean_over=None
         .rename_axis(index=groupby)
     )
 
-def tukey_hsd(data, outcome, groupby, mean_over=None):
+def tukey_hsd(data, outcome, groupby, mean_over=None, print_pvals=False):
     """ Perform Tukey's HSD test """
 
     def tolist (x):
@@ -169,6 +169,8 @@ def tukey_hsd(data, outcome, groupby, mean_over=None):
         data = data.groupby(tolist(groupby) + tolist(mean_over))[outcome].mean().reset_index()
     mc = MultiComparison(data[outcome], data[groupby])
     result = mc.tukeyhsd()
+    if print_pvals:
+        print(result.pvalues)
     return result.summary()
 
 def annot(ax, xc, dx, text, c='k', **kwargs):
