@@ -37,5 +37,5 @@ When explicitly referencing the data or code, use the DOI assigned to this repos
 [doi-paper-shield]: https://img.shields.io/badge/DOI%20(preprint)-10.21203/rs.3.rs--4094624/v1-tomato
 [doi-paper-link]:   https://doi.org/10.21203/rs.3.rs-4094624/v1
 
-[doi-repo-shield]:  https://img.shields.io/badge/DOI%20(repository)-10.6084/m9.figshare.25398622-tomato
-[doi-repo-link]:    https://doi.org/10.6084/m9.figshare.25398622
+[doi-repo-shield]:  https://img.shields.io/badge/DOI%20(repository)-10.6084/m9.figshare.25398622.v2-tomato
+[doi-repo-link]:    https://doi.org/10.6084/m9.figshare.25398622.v2
