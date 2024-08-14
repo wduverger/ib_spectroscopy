@@ -6,7 +6,7 @@
 
 ![Abstract Graphic](./figures/abstract%20graphic.png)
 
-This repository contains the data and analysis presented in **Duverger et al. 2024. (submitted)**
+This repository contains the data and analysis presented in **Duverger et al. *Journal of Nanobiotechnology* (2024)**.
 
 The analysis notebooks can be found in the [code](./code) directory. They provide all figures and results presented in the manuscript. The underlying data can be found in [primary_data](./primary_data).
 
@@ -26,7 +26,7 @@ This work is licensed under a
 [Creative Commons Attribution 4.0 International License (CC BY 4.0)][cc-by-link].
 If you use this code in your work, please cite the following preprint:
 
-> Wouter Duverger, Grigoria Tsaka, Ladan Khodaparast et al. Single-cell infrared absorption spectroscopy of bacterial inclusion bodies, 19 March 2024, PREPRINT (Version 1) available at Research Square [10.21203/rs.3.rs-4094624/v1][doi-paper-link]
+> Duverger, W., Tsaka, G., Khodaparast, L. et al. An end-to-end approach for single-cell infrared absorption spectroscopy of bacterial inclusion bodies: from AFM-IR measurement to data interpretation of large sample sets. J Nanobiotechnol 22, 406 (2024). [10.1186/s12951-024-02674-3][doi-paper-link] 
 
 When explicitly referencing the data or code, use the DOI assigned to this repository: [10.6084/m9.figshare.25398622][doi-repo-link]
 
@@ -34,8 +34,8 @@ When explicitly referencing the data or code, use the DOI assigned to this repos
 [cc-by-image]:      https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]:     https://img.shields.io/badge/License-CC%20BY%204.0-tomato.svg
 
-[doi-paper-shield]: https://img.shields.io/badge/DOI%20(preprint)-10.21203/rs.3.rs--4094624/v1-tomato
-[doi-paper-link]:   https://doi.org/10.21203/rs.3.rs-4094624/v1
+[doi-paper-shield]: https://img.shields.io/badge/DOI%20(preprint)-10.1186/s12951--024--02674--3-tomato
+[doi-paper-link]:   https://doi.org/10.1186/s12951-024-02674-3
 
 [doi-repo-shield]:  https://img.shields.io/badge/DOI%20(repository)-10.6084/m9.figshare.25398622.v2-tomato
 [doi-repo-link]:    https://doi.org/10.6084/m9.figshare.25398622.v2
