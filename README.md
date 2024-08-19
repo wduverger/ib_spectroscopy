@@ -1,8 +1,8 @@
-# Single-cell infrared absorption spectroscopy of bacterial inclusion bodies
+# An end-to-end approach for single-cell infrared absorption spectroscopy of bacterial inclusion bodies: from AFM-IR measurement to data interpretation of large sample sets
 
 [![CC BY 4.0][cc-by-shield]][cc-by-link]
 [![DOI (repository)][doi-repo-shield]][doi-repo-link]
-[![DOI (preprint)][doi-paper-shield]][doi-paper-link]
+[![DOI (paper)][doi-paper-shield]][doi-paper-link]
 
 ![Abstract Graphic](./figures/abstract%20graphic.png)
 
@@ -34,7 +34,7 @@ When explicitly referencing the data or code, use the DOI assigned to this repos
 [cc-by-image]:      https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]:     https://img.shields.io/badge/License-CC%20BY%204.0-tomato.svg
 
-[doi-paper-shield]: https://img.shields.io/badge/DOI%20(preprint)-10.1186/s12951--024--02674--3-tomato
+[doi-paper-shield]: https://img.shields.io/badge/DOI%20(paper)-10.1186/s12951--024--02674--3-tomato
 [doi-paper-link]:   https://doi.org/10.1186/s12951-024-02674-3
 
 [doi-repo-shield]:  https://img.shields.io/badge/DOI%20(repository)-10.6084/m9.figshare.25398622.v2-tomato
