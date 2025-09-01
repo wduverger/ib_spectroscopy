@@ -7,7 +7,7 @@ from scipy import interpolate
 from scipy.ndimage import shift
 from skimage.transform import ProjectiveTransform, SimilarityTransform, rotate, warp, EuclideanTransform
 from skimage.measure import ransac
-from skimage.feature import plot_matches, ORB, match_descriptors, plot_matches
+from skimage.feature import ORB, match_descriptors
 
 from .plot_maps import pixel_size_xy, force_2d_coords, plot_map
 import matplotlib.pyplot as plt
